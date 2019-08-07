@@ -1,0 +1,9 @@
+com/ozonetel/calitereports/hibernateConfig/RepositoryConfig.class
+com/ozonetel/calitereports/Dao/ReportDao.class
+com/ozonetel/calitereports/hibernateConfig/AppConfig.class
+com/ozonetel/calitereports/model/Report.class
+com/ozonetel/calitereports/DaoImpl/UserDaoImpl.class
+com/ozonetel/calitereports/Dao/UserDao.class
+com/ozonetel/calitereports/model/User.class
+com/ozonetel/calitereports/Controller/ReportController.class
+com/ozonetel/calitereports/DaoImpl/ReportDaoImpl.class

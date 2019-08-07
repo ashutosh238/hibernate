@@ -1,0 +1,9 @@
+/home/sharma/NetBeansProjects/ReportsBackEnd/src/main/java/com/ozonetel/calitereports/model/User.java
+/home/sharma/NetBeansProjects/ReportsBackEnd/src/main/java/com/ozonetel/calitereports/DaoImpl/UserDaoImpl.java
+/home/sharma/NetBeansProjects/ReportsBackEnd/src/main/java/com/ozonetel/calitereports/hibernateConfig/RepositoryConfig.java
+/home/sharma/NetBeansProjects/ReportsBackEnd/src/main/java/com/ozonetel/calitereports/DaoImpl/ReportDaoImpl.java
+/home/sharma/NetBeansProjects/ReportsBackEnd/src/main/java/com/ozonetel/calitereports/hibernateConfig/AppConfig.java
+/home/sharma/NetBeansProjects/ReportsBackEnd/src/main/java/com/ozonetel/calitereports/model/Report.java
+/home/sharma/NetBeansProjects/ReportsBackEnd/src/main/java/com/ozonetel/calitereports/Dao/ReportDao.java
+/home/sharma/NetBeansProjects/ReportsBackEnd/src/main/java/com/ozonetel/calitereports/Controller/ReportController.java
+/home/sharma/NetBeansProjects/ReportsBackEnd/src/main/java/com/ozonetel/calitereports/Dao/UserDao.java
